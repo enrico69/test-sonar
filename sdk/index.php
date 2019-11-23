@@ -1,5 +1,9 @@
 <?php
 
+switch($a) {
+case 2: break;
+}
+
 echo ':::';
 $a = 4;
 
